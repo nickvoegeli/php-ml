@@ -1,5 +1,5 @@
 {
-    "name": "php-ai/php-ml",
+    "name": "nickvoegeli/php-ml",
     "type": "library",
     "description": "PHP-ML - Machine Learning library for PHP",
     "keywords": [
@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": "^7.2"
+        "php": ">=7.2"
     },
     "require-dev": {
         "phpbench/phpbench": "^0.16.0",
